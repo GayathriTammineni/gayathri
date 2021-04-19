@@ -1,0 +1,16 @@
+#drag1,#drag2{
+    width: 100px;
+    height: 100px;
+    background: blue;
+    margin-bottom: 20px;
+    border-radius: 20px;
+}
+#drag{
+    width: 400px;height: 600px;
+    border: 2px dashed gray;
+    right: 20px;
+    top: 10px;
+    text-align: center;
+    position:absolute;
+
+}
